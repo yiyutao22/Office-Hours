@@ -6,6 +6,8 @@ The Office Hours+ is a scheduling system specifically designed for IU students a
 - It also records attendance data and generates visual reports for instructors to download. 
 
 
-**Tools & Techniques**: \
+**Tools**: \
 Back-end: SQL, PHP \
 Front-end: HTML/CSS/JavaScript
+
+**Techniques**: Agile Project Management, Database Design & Managment, Proficiency in SQL, Web Design & Development(UI & UX), Frontend and Backend Communication
